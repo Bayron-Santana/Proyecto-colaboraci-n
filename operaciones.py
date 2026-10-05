@@ -12,5 +12,8 @@ def multiplicacion(a, b):
 
 def division(a, b):
     if b == 0:
-        return "entre cero no se puede dividir"
+        return "No se puede dividir entre cero, no da"
     return a / b
+
+def porcentaje(numero, porcentaje):
+    return numero * porcentaje / 100
