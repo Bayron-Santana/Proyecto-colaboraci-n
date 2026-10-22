@@ -8,3 +8,6 @@ def es_impar(numero):
 
 def promedio(numeros):
     return sum(numeros) / len(numeros)
+
+def mayor_de_edad(edad):
+    return edad >= 18
