@@ -7,3 +7,6 @@ def imprimir_cuento():
     print("Gracias a su velocidad, fuerza y un gran trabajo en equipo.")
     print("los Autobots logran defender la energía, derrotar a los invasores y devolver la paz a su hogar.")
     print("Escuche la música de Jablonsky cambió a 'Arrival to Earth' mientras lee este cuento de los transformers")
+    print("Los Autobots descubren una nueva amenaza en Cybertron.")
+    print("Optimus Prime reúne a su equipo para proteger el planeta y a Panamá.")
+    print("Juntos demuestran que la amistad y el trabajo en equipo pueden vencer cualquier desafío.")
